@@ -1,0 +1,28 @@
+# Unreal Engine generated and editor artifacts
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# IDE / editor
+.vs/
+.vscode/
+.idea/
+
+# Visual Studio project files (regenerated from the .uproject)
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Xcode project files (regenerated from the .uproject)
+*.xcodeproj
+*.xcworkspace
+
+# OS cruft
+.DS_Store
+Thumbs.db
+._*

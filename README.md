@@ -1,5 +1,7 @@
 # PUBG-UNREAL
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 An Unreal Engine 4 battle royale prototype focused on gameplay systems built with Blueprints and C++.
 
 ## Overview
@@ -95,6 +97,18 @@ Contributions are welcome:
 3. Commit your changes
 4. Push the branch
 5. Open a pull request
+
+## License
+
+Released under the [MIT License](LICENSE).
+
+### Assets
+
+The MIT license covers this project's own code, Blueprints, and configuration.
+It does **not** cover third-party Unreal Engine or Marketplace assets (meshes,
+animations, textures, audio, and similar content) bundled or referenced here —
+those remain under their respective licenses and copyrights, and are included
+for prototype and demonstration purposes only.
 
 ## Contact
 
